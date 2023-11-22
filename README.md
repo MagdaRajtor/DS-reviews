@@ -5,6 +5,7 @@ The aim of this project was to compare how well 3 classifiers perform on a well-
 * KNN classifier with TF-IDF
 * fastText
 * BERT
+
 I compared the obtained accuracies and the inter-rater reliability of the models. All the results are presented in the main notebook.
 
 What I learned:
